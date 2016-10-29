@@ -1,1 +1,1 @@
-<?php echo <h1>Welcom PHP</h1> ?>
+<?php echo <h1>Welcom PHP from phai</h1> ?>
